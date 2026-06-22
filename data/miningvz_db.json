@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "id": 1782127223595,
+      "username": "admin",
+      "password": "$2b$10$qCeOtjjJXN1eaql1Wm1aweI8kUPWuF6jAaNIOhwaM6/gkk.qlDBze",
+      "createdAt": "2026-06-22T11:20:23.595Z",
+      "score": 0
+    }
+  ],
+  "saves": {
+    "1782127223595": {
+      "userId": 1782127223595,
+      "username": "Admin",
+      "level": 1,
+      "ths": 0,
+      "mag": 1000,
+      "click": 0,
+      "diamonds": 0,
+      "karma": 100,
+      "posts": 0,
+      "prestigeCount": 0,
+      "prestigeBonus": 0,
+      "dailyStreak": 0,
+      "lastDaily": "2026-06-22T11:20:23.596Z",
+      "upgrades": {},
+      "diamondUpgrades": {},
+      "milestones": [],
+      "groups": [],
+      "badges": [],
+      "lastSync": "2026-06-22T11:20:23.596Z"
+    }
+  },
+  "leaderboard": [
+    {
+      "id": 1782127223595,
+      "username": "admin",
+      "score": 0,
+      "createdAt": "2026-06-22T11:20:23.596Z"
+    }
+  ]
+}
